@@ -1,0 +1,8 @@
+
+#presentacion {
+    height: 85vh;
+    /*background-image: url("https://5115875.fs1.hubspotusercontent-na1.net/hub/5115875/hubfs/imagenes%20art%20sept/00%20Co%CC%81digo%20html_%20que%CC%81%20es%20y%20todo%20lo%20que%20debes%20saber.png?width=950&name=00%20Co%CC%81digo%20html_%20que%CC%81%20es%20y%20todo%20lo%20que%20debes%20saber.png");*/
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
