@@ -6,3 +6,24 @@
     justify-content: start;
     align-items: center;
 }
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#proyecto-1 {
+    background-image: url('google.png');
+}
+
+#proyecto-2 {
+    background-image: url('hack.png');
+}
+
+#proyecto-3{
+    background-image: url('churreria.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25);
+}
