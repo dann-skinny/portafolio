@@ -1,6 +1,5 @@
-
 #presentacion {
-    height: 93vh;
+    height: 100vh;
     /*background-image: url("https://5115875.fs1.hubspotusercontent-na1.net/hub/5115875/hubfs/imagenes%20art%20sept/00%20Co%CC%81digo%20html_%20que%CC%81%20es%20y%20todo%20lo%20que%20debes%20saber.png?width=950&name=00%20Co%CC%81digo%20html_%20que%CC%81%20es%20y%20todo%20lo%20que%20debes%20saber.png");*/
     display: flex;
     justify-content: start;
@@ -16,6 +15,7 @@
     background-position: center;
     background-size: contain;
 }
+
 #proyecto-1 {
     background-image: url('assets/google.png');
 }
@@ -24,10 +24,27 @@
     background-image: url('assets/hack.png');
 }
 
-#proyecto-3{
+#proyecto-3 {
     background-image: url('assets/churreria.png');
 }
 
 .text-shadow-1 {
     text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25);
 }
+
+.pixelify-sans-uniquifier {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#miAudio {
+            background-color: transparent;
+            border: 1px solid white;
+            color: white;
+            border-radius: 5px;
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
