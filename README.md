@@ -21,4 +21,4 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 * Bootstrap
 * Javascript
 
-Desarrollado con ❤️ por [Daniela](https://mail.google.com/mail/u/1/?ogbl#inbox) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con ❤️ por [Daniela] en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
